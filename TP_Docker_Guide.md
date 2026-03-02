@@ -1,4 +1,4 @@
-# TP Docker : Guide Pas à Pas
+# TP Docker : Introduction
 
 Ce TP vous guidera à travers les concepts fondamentaux de Docker et vous permettra de répondre aux questions du fichier Questions.txt.
 
@@ -21,7 +21,7 @@ docker --version
 
 ### Qu'est-ce que Docker ?
 
-Docker est une **plateforme devirtualisation** qui permet de créer, déployer et exécuter des applications dans des **conteneurs**.
+Docker est une **plateforme de virtualisation** qui permet de créer, déployer et exécuter des applications dans des **conteneurs**.
 
 ### L'avantage principal des conteneurs Docker
 
